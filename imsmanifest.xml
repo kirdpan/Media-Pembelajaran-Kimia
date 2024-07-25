@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5XSg0wfYUOG_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Kimia di Sekitar Kita</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">Medi Pembelajaran Kimia "Kimia di Sekitar Kita"</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Kimia_di_Sekitar_Kita_ORG">
+    <organization identifier="Kimia_di_Sekitar_Kita_ORG">
+      <title>Kimia di Sekitar Kita</title>
+      <item identifier="Kimia_di_Sekitar_Kita_SCO" isvisible="true" identifierref="__5XSg0wfYUOG_course_id_RES">
+        <title>Kimia di Sekitar Kita</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5XSg0wfYUOG_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6MtxLXtW7Yj_80_DX68_DY68_CX67_CY67.png" />
+      <file href="mobile/5ZjlZcW2mnt_80_DX96_DY96_CX100_CY100.png" />
+      <file href="mobile/5XFqxbkY4Zr_80_DX128_DY128_CX134_CY134.png" />
+      <file href="mobile/6m3KXnBhd3Z_80_DX242_DY242_CX201_CY252.png" />
+      <file href="mobile/5hCg03Jtq7X_80_DX422_DY422_CX250_CY209.png" />
+      <file href="mobile/6B84iygqyIh_80_DX112_DY112_CX117_CY117.png" />
+      <file href="mobile/6VxRZbjDrEU_80_DX84_DY84_CX88_CY88.png" />
+      <file href="mobile/5dJ0dYok5xy_80_DX80_DY80_CX83_CY83.png" />
+      <file href="mobile/6ONRfC2YzAG_80_DX80_DY80_CX83_CY83.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide6olAgRnUa4d.jpg" />
+      <file href="mobile/Slide6dhlvQHcG4I.jpg" />
+      <file href="mobile/Slide6cUZkb0msE4.jpg" />
+      <file href="mobile/Slide6LUAwuh7FMV.jpg" />
+      <file href="mobile/Slide6ddm51WxiOM.jpg" />
+      <file href="mobile/Slide6CPzYkjybXB.jpg" />
+      <file href="mobile/Slide6ePCDkNlK8q.jpg" />
+      <file href="mobile/Slide6QvZp0gEN4o.jpg" />
+      <file href="mobile/Slide6chk96OhMW9.jpg" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/5tJjoxjlGZr.js" />
+      <file href="html5/data/js/5fKzZpjWCfN.js" />
+      <file href="html5/data/js/5xImPh3Ffct.js" />
+      <file href="html5/data/js/5XFfZH7ytaz.js" />
+      <file href="html5/data/js/5iPKwGcxAiC.js" />
+      <file href="html5/data/js/676HpjJsrW8.js" />
+      <file href="html5/data/js/6bewINCZxSF.js" />
+      <file href="html5/data/js/5VqykYRGmjI.js" />
+      <file href="html5/data/js/5hvwENVFq6Q.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
